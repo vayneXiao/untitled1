@@ -1,9 +1,1 @@
-1，VCS选中项目文件夹创建为git仓库，新文件为褐色
-（不进行这一步右击项目不出现git选项）
-2，git - add 绿色
-3，git - commit 目录  黑色
-4，在github创建仓库，idea右击git - push，Define Remote 填写自己github的项目地址
-
-
-
-问题1：分支事从当前时刻当前分支复制一个新的项目文件夹，这样的理解对吗？
+command
