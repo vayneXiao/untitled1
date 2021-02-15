@@ -1,8 +1,10 @@
-1，VCS选中项目文件夹创建为git仓库，新文件为褐色
-（不进行这一步右击项目不出现git选项）
-2，git - add 绿色
-3，git - commit 目录  黑色
-4，在github创建仓库，idea右击git - push，Define Remote 填写自己github的项目地址
+将本地目录交给git管理：VCS选中项目文件夹创建为git仓库，新文件为褐色（不进行这一步右击项目不出现git选项）
+add：Git - add 绿色
+commit：Git - commit 目录  黑色
+越过add直接commit: Git - Commit Directory - Commit
+Push：Git - Push Define Remote 填写自己github的项目地址，并起一个名字，一般默认origin也可以自定义 （push之前一定要在github创建对应的仓库）
+越过add直接一次性commit和push： Git - Commit Directory - Commit and Push
+
 
 
 
